@@ -49,15 +49,23 @@ def main() -> None:
             bam.fetch(args.reference or DEFAULT_REF_ID, offset, offset + 3), start=1
         ):
             assert not read.is_unmapped
-            seen = set()
+            # referenceOffsetsSeen and queryOffsetsSeen are used as sanity
+            # checks to make sure that (for all reads) samtools doesn't
+            # return any offset more than once.
+            referenceOffsetsSeen = set()
+            queryOffsetsSeen = set()
             query = read.query_sequence
             bases = [None, None, None]
             foundCount = 0
             for queryOffset, referenceOffset in read.get_aligned_pairs():
                 if queryOffset is None or referenceOffset is None:
                     continue
-                assert referenceOffset not in seen
-                seen.add(referenceOffset)
+
+                assert referenceOffset not in referenceOffsetsSeen
+                referenceOffsetsSeen.add(referenceOffset)
+                assert queryOffset not in queryOffsetsSeen
+                queryOffsetsSeen.add(queryOffset)
+
                 if referenceOffset in wantedOffsets:
                     codonOffset = referenceOffset - offset
                     assert bases[codonOffset] is None
