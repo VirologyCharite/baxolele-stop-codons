@@ -1,0 +1,401 @@
+Results for file 'P(1) DMSO-1/Baxolele_05_S8_R1_001.bam'
+2,352,850 reads were mapped to the reference.
+5528/2352850 (0.235%) overlap the region (27217-27219) in some way.
+Of these:
+  0/5528 (0.000%) have a low-quality (<13) base in the target region (ignored).
+  127/5528 (2.297%) only partially overlap the region (ignored).
+  6/5528 (0.109%) span the region but with no nucleotides matching in the specific sites (ignored).
+  0/5395 (0.000%) of reads with a valid codon have a stop.
+  Frequency breakdown of 5395 reads with a valid codon:
+    GAC  5376
+    GTC     5
+    AAC     3
+    TAC     3
+    CAC     2
+    GAG     2
+    GAA     2
+    GGC     1
+    GAT     1
+
+Results for file 'P(1) DMSO-2/Baxolele_06_S18_R1_001.bam'
+2,231,201 reads were mapped to the reference.
+3993/2231201 (0.179%) overlap the region (27217-27219) in some way.
+Of these:
+  0/3993 (0.000%) have a low-quality (<13) base in the target region (ignored).
+  72/3993 (1.803%) only partially overlap the region (ignored).
+  2/3993 (0.050%) span the region but with no nucleotides matching in the specific sites (ignored).
+  175/3919 (4.465%) of reads with a valid codon have a stop.
+  Frequency breakdown of 3919 reads with a valid codon:
+    GAC  3729
+    TAA   175	*
+    GTC     6
+    CAC     2
+    GAG     2
+    GAT     2
+    GTG     1
+    GGC     1
+    TAC     1
+
+Results for file 'P(1) DMSO-3/Baxolele_07_S27_R1_001.bam'
+808,249 reads were mapped to the reference.
+1310/808249 (0.162%) overlap the region (27217-27219) in some way.
+Of these:
+  0/1310 (0.000%) have a low-quality (<13) base in the target region (ignored).
+  20/1310 (1.527%) only partially overlap the region (ignored).
+  31/1310 (2.366%) span the region but with no nucleotides matching in the specific sites (ignored).
+  46/1259 (3.654%) of reads with a valid codon have a stop.
+  Frequency breakdown of 1259 reads with a valid codon:
+    GAC  1210
+    TAA    46	*
+    TAT     1
+    GAG     1
+    GAA     1
+
+Results for file 'P(1) JQ1-1/Baxolele_01_S44_R1_001.bam'
+959,771 reads were mapped to the reference.
+2072/959771 (0.216%) overlap the region (27217-27219) in some way.
+Of these:
+  0/2072 (0.000%) have a low-quality (<13) base in the target region (ignored).
+  47/2072 (2.268%) only partially overlap the region (ignored).
+  1/2072 (0.048%) span the region but with no nucleotides matching in the specific sites (ignored).
+  0/2024 (0.000%) of reads with a valid codon have a stop.
+  Frequency breakdown of 2024 reads with a valid codon:
+    GAC  2019
+    TAC     2
+    AAC     2
+    GAA     1
+
+Results for file 'P(1) JQ1-2/Baxolele_02_S53_R1_001.bam'
+1,954,188 reads were mapped to the reference.
+4385/1954188 (0.224%) overlap the region (27217-27219) in some way.
+Of these:
+  0/4385 (0.000%) have a low-quality (<13) base in the target region (ignored).
+  93/4385 (2.121%) only partially overlap the region (ignored).
+  343/4385 (7.822%) span the region but with no nucleotides matching in the specific sites (ignored).
+  0/3949 (0.000%) of reads with a valid codon have a stop.
+  Frequency breakdown of 3949 reads with a valid codon:
+    GAC  3918
+    TCA    15
+    GAA     5
+    CAC     2
+    GAT     2
+    AAC     2
+    GTC     2
+    GCC     1
+    TAC     1
+    GAG     1
+
+Results for file 'P(1) JQ1-3/Baxolele_03_S62_R1_001.bam'
+1,756,968 reads were mapped to the reference.
+3439/1756968 (0.196%) overlap the region (27217-27219) in some way.
+Of these:
+  0/3439 (0.000%) have a low-quality (<13) base in the target region (ignored).
+  53/3439 (1.541%) only partially overlap the region (ignored).
+  1/3439 (0.029%) span the region but with no nucleotides matching in the specific sites (ignored).
+  0/3385 (0.000%) of reads with a valid codon have a stop.
+  Frequency breakdown of 3385 reads with a valid codon:
+    GAC  3375
+    GAT     3
+    GTC     2
+    GAA     2
+    TAC     1
+    GAG     1
+    AAC     1
+
+Results for file 'P(1) JQ1-4/Baxolele_04_S71_R1_001.bam'
+1,683,987 reads were mapped to the reference.
+3268/1683987 (0.194%) overlap the region (27217-27219) in some way.
+Of these:
+  1/3268 (0.031%) have a low-quality (<13) base in the target region (ignored).
+  49/3268 (1.499%) only partially overlap the region (ignored).
+  1/3268 (0.031%) span the region but with no nucleotides matching in the specific sites (ignored).
+  1037/3218 (32.225%) of reads with a valid codon have a stop.
+  Frequency breakdown of 3218 reads with a valid codon:
+    GAC  2175
+    TAA  1037	*
+    TAT     1
+    GAA     1
+    GGC     1
+    GTC     1
+    GAT     1
+    TTC     1
+
+Results for file 'P(2) DMSO-1/Baxolele_12_S72_R1_001.bam'
+3,816,377 reads were mapped to the reference.
+8132/3816377 (0.213%) overlap the region (27217-27219) in some way.
+Of these:
+  0/8132 (0.000%) have a low-quality (<13) base in the target region (ignored).
+  153/8132 (1.881%) only partially overlap the region (ignored).
+  14/8132 (0.172%) span the region but with no nucleotides matching in the specific sites (ignored).
+  302/7965 (3.792%) of reads with a valid codon have a stop.
+  Frequency breakdown of 7965 reads with a valid codon:
+    GAC  7606
+    TAA   302	*
+    TAC    19
+    GTC    18
+    GAA     8
+    GGC     3
+    GCC     2
+    AAC     2
+    GAT     2
+    GAG     2
+    CAC     1
+
+Results for file 'P(2) DMSO-2/Baxolele_13_S9_R1_001.bam'
+3,897,679 reads were mapped to the reference.
+8591/3897679 (0.220%) overlap the region (27217-27219) in some way.
+Of these:
+  0/8591 (0.000%) have a low-quality (<13) base in the target region (ignored).
+  156/8591 (1.816%) only partially overlap the region (ignored).
+  7/8591 (0.081%) span the region but with no nucleotides matching in the specific sites (ignored).
+  299/8428 (3.548%) of reads with a valid codon have a stop.
+  Frequency breakdown of 8428 reads with a valid codon:
+    GAC  8085
+    TAA   299	*
+    TAC    22
+    CAC     5
+    GTC     4
+    GCC     2
+    GTT     2
+    GAT     2
+    GAG     2
+    GAA     2
+    TTC     1
+    GGC     1
+    AAC     1
+
+Results for file 'P(2) DMSO-3/Baxolele_14_S19_R1_001.bam'
+3,347,155 reads were mapped to the reference.
+5985/3347155 (0.179%) overlap the region (27217-27219) in some way.
+Of these:
+  1/5985 (0.017%) have a low-quality (<13) base in the target region (ignored).
+  109/5985 (1.821%) only partially overlap the region (ignored).
+  38/5985 (0.635%) span the region but with no nucleotides matching in the specific sites (ignored).
+  195/5838 (3.340%) of reads with a valid codon have a stop.
+  Frequency breakdown of 5838 reads with a valid codon:
+    GAC  5622
+    TAA   195	*
+    TAC     5
+    CAC     4
+    GAA     4
+    AAC     2
+    GAG     2
+    GTT     1
+    GTG     1
+    GTC     1
+    GTA     1
+
+Results for file 'P(2) JQ1-1/Baxolele_09_S45_R1_001.bam'
+3,725,535 reads were mapped to the reference.
+9385/3725535 (0.252%) overlap the region (27217-27219) in some way.
+Of these:
+  0/9385 (0.000%) have a low-quality (<13) base in the target region (ignored).
+  243/9385 (2.589%) only partially overlap the region (ignored).
+  870/9385 (9.270%) span the region but with no nucleotides matching in the specific sites (ignored).
+  10/8272 (0.121%) of reads with a valid codon have a stop.
+  Frequency breakdown of 8272 reads with a valid codon:
+    GAC  8222
+    TAA    10	*
+    GTC     9
+    CAC     8
+    TAC     5
+    GCC     5
+    GAT     4
+    GAG     3
+    GAA     3
+    GGC     1
+    TTC     1
+    GCA     1
+
+Results for file 'P(2) JQ1-2/Baxolele_10_S54_R1_001.bam'
+4,103,633 reads were mapped to the reference.
+7446/4103633 (0.181%) overlap the region (27217-27219) in some way.
+Of these:
+  0/7446 (0.000%) have a low-quality (<13) base in the target region (ignored).
+  193/7446 (2.592%) only partially overlap the region (ignored).
+  11/7446 (0.148%) span the region but with no nucleotides matching in the specific sites (ignored).
+  2/7242 (0.028%) of reads with a valid codon have a stop.
+  Frequency breakdown of 7242 reads with a valid codon:
+    GAC  7203
+    GCC     6
+    TAC     6
+    GAA     6
+    GTC     5
+    CAC     4
+    GAT     4
+    GAG     3
+    TAA     2	*
+    AAC     2
+    GGC     1
+
+Results for file 'P(2) JQ1-3/Baxolele_11_S63_R1_001.bam'
+4,282,355 reads were mapped to the reference.
+10338/4282355 (0.241%) overlap the region (27217-27219) in some way.
+Of these:
+  1/10338 (0.010%) have a low-quality (<13) base in the target region (ignored).
+  79/10338 (0.764%) only partially overlap the region (ignored).
+  17/10338 (0.164%) span the region but with no nucleotides matching in the specific sites (ignored).
+  7094/10242 (69.264%) of reads with a valid codon have a stop.
+  Frequency breakdown of 10242 reads with a valid codon:
+    TAA  7093	*
+    GAC  3122
+    AAA     6
+    GAA     5
+    TTA     3
+    CAC     2
+    GTC     2
+    TAT     2
+    GCC     2
+    TAC     2
+    GCA     1
+    TAG     1	*
+    GAT     1
+
+Results for file 'Prop. P(2) DMSO-1/Baxolele_18_S55_R1_001.bam'
+2,111,583 reads were mapped to the reference.
+8073/2111583 (0.382%) overlap the region (27217-27219) in some way.
+Of these:
+  0/8073 (0.000%) have a low-quality (<13) base in the target region (ignored).
+  158/8073 (1.957%) only partially overlap the region (ignored).
+  16/8073 (0.198%) span the region but with no nucleotides matching in the specific sites (ignored).
+  191/7899 (2.418%) of reads with a valid codon have a stop.
+  Frequency breakdown of 7899 reads with a valid codon:
+    GAC  7663
+    TAA   191	*
+    TAC    26
+    GTC     6
+    CAC     5
+    AAC     3
+    GAG     2
+    GGC     1
+    TCC     1
+    GCC     1
+
+Results for file 'Prop. P(2) DMSO-2/Baxolele_19_S64_R1_001.bam'
+1,638,640 reads were mapped to the reference.
+7812/1638640 (0.477%) overlap the region (27217-27219) in some way.
+Of these:
+  0/7812 (0.000%) have a low-quality (<13) base in the target region (ignored).
+  139/7812 (1.779%) only partially overlap the region (ignored).
+  7/7812 (0.090%) span the region but with no nucleotides matching in the specific sites (ignored).
+  188/7666 (2.452%) of reads with a valid codon have a stop.
+  Frequency breakdown of 7666 reads with a valid codon:
+    GAC  7407
+    TAA   188	*
+    TAC    55
+    GAA     5
+    GTC     4
+    CAC     4
+    TAT     1
+    GAG     1
+    GCC     1
+
+Results for file 'Prop. P(2) DMSO-3/Baxolele_20_S73_R1_001.bam'
+2,668,857 reads were mapped to the reference.
+11366/2668857 (0.426%) overlap the region (27217-27219) in some way.
+Of these:
+  0/11366 (0.000%) have a low-quality (<13) base in the target region (ignored).
+  210/11366 (1.848%) only partially overlap the region (ignored).
+  247/11366 (2.173%) span the region but with no nucleotides matching in the specific sites (ignored).
+  166/10909 (1.522%) of reads with a valid codon have a stop.
+  Frequency breakdown of 10909 reads with a valid codon:
+    GAC 10702
+    TAA   166	*
+    GGC     8
+    GAG     6
+    TAC     6
+    CAC     5
+    GTC     5
+    GAT     3
+    GAA     3
+    GCC     2
+    AAC     1
+    TAT     1
+    TTC     1
+
+Results for file 'Prop. P(2) JQ1-1/Baxolele_15_S28_R1_001.bam'
+3,340,050 reads were mapped to the reference.
+14194/3340050 (0.425%) overlap the region (27217-27219) in some way.
+Of these:
+  1/14194 (0.007%) have a low-quality (<13) base in the target region (ignored).
+  314/14194 (2.212%) only partially overlap the region (ignored).
+  606/14194 (4.269%) span the region but with no nucleotides matching in the specific sites (ignored).
+  2/13274 (0.015%) of reads with a valid codon have a stop.
+  Frequency breakdown of 13274 reads with a valid codon:
+    GAC 13210
+    CAC    14
+    GAG     9
+    GGC     9
+    GTC     8
+    TAC     6
+    GAA     6
+    GCC     5
+    TAA     2	*
+    GAT     2
+    AAC     2
+    GCA     1
+
+Results for file 'Prop. P(2) JQ1-2/Baxolele_16_S37_R1_001.bam'
+2,631,069 reads were mapped to the reference.
+7369/2631069 (0.280%) overlap the region (27217-27219) in some way.
+Of these:
+  0/7369 (0.000%) have a low-quality (<13) base in the target region (ignored).
+  173/7369 (2.348%) only partially overlap the region (ignored).
+  5/7369 (0.068%) span the region but with no nucleotides matching in the specific sites (ignored).
+  0/7191 (0.000%) of reads with a valid codon have a stop.
+  Frequency breakdown of 7191 reads with a valid codon:
+    GAC  7162
+    TAC     7
+    CAC     5
+    GTC     5
+    GAA     3
+    GCC     2
+    GAG     2
+    GAT     2
+    AAC     1
+    AAT     1
+    GGC     1
+
+Results for file 'Prop. P(2) JQ1-3/Baxolele_17_S46_R1_001.bam'
+4,046,379 reads were mapped to the reference.
+11392/4046379 (0.282%) overlap the region (27217-27219) in some way.
+Of these:
+  1/11392 (0.009%) have a low-quality (<13) base in the target region (ignored).
+  23/11392 (0.202%) only partially overlap the region (ignored).
+  5/11392 (0.044%) span the region but with no nucleotides matching in the specific sites (ignored).
+  10684/11364 (94.016%) of reads with a valid codon have a stop.
+  Frequency breakdown of 11364 reads with a valid codon:
+    TAA 10683	*
+    GAC   649
+    TTA    10
+    TAT    10
+    AAA     5
+    GAA     2
+    TAC     2
+    TAG     1	*
+    AAT     1
+    CAA     1
+
+Results for file 'isolate/W_200811_36_1612_1_isolate_RNA.bam'
+378,903 reads were mapped to the reference.
+4237/378903 (1.118%) overlap the region (27217-27219) in some way.
+Of these:
+  1589/4237 (37.503%) have a low-quality (<13) base in the target region (ignored).
+  1622/4237 (38.282%) only partially overlap the region (ignored).
+  0/4237 (0.000%) span the region but with no nucleotides matching in the specific sites (ignored).
+  6/2615 (0.229%) of reads with a valid codon have a stop.
+  Frequency breakdown of 2615 reads with a valid codon:
+    GAC  2562
+    TAC    27
+    TAA     6	*
+    GTC     5
+    GAA     3
+    AAC     3
+    GCC     2
+    GAT     2
+    TCC     1
+    GAG     1
+    TTC     1
+    CAC     1
+    TAT     1
+

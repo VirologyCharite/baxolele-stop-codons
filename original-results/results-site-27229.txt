@@ -1,0 +1,232 @@
+P(1) DMSO-1/Baxolele_05_S8_R1_001.bam
+Found 0/5454 (0.000%) stop codon reads
+AAT 2
+ACA 3
+ACG 1
+ACT 5293
+AGT 1
+ATT 3
+GCT 71
+TCT 2
+
+P(1) DMSO-2/Baxolele_06_S18_R1_001.bam
+Found 0/4007 (0.000%) stop codon reads
+AAC 1
+AAT 3
+ACC 2
+ACT 3931
+AGT 2
+CCT 1
+GCT 3
+
+P(1) DMSO-3/Baxolele_07_S27_R1_001.bam
+Found 0/1290 (0.000%) stop codon reads
+ACA 1
+ACT 1273
+ATT 1
+TCT 2
+
+P(1) JQ1-1/Baxolele_01_S44_R1_001.bam
+Found 0/2185 (0.000%) stop codon reads
+AAT 2
+ACA 3
+ACT 2151
+ATT 3
+TCT 2
+TGT 1
+
+P(1) JQ1-2/Baxolele_02_S53_R1_001.bam
+Found 0/4799 (0.000%) stop codon reads
+AAT 2
+ACA 4
+ACC 1
+ACG 1
+ACT 4704
+AGT 1
+ATT 2
+GCT 1
+NNN 1
+TCT 1
+
+P(1) JQ1-3/Baxolele_03_S62_R1_001.bam
+Found 0/3492 (0.000%) stop codon reads
+AAT 4
+ACC 1
+ACT 3432
+AGT 1
+TCT 1
+
+P(1) JQ1-4/Baxolele_04_S71_R1_001.bam
+Found 0/3561 (0.000%) stop codon reads
+AAT 3
+ACA 1
+ACC 1
+ACG 2
+ACN 1
+ACT 3498
+AGT 1
+ATT 3
+GCT 1
+
+P(2) DMSO-1/Baxolele_12_S72_R1_001.bam
+Found 0/8075 (0.000%) stop codon reads
+AAT 4
+ACA 2
+ACC 1
+ACG 6
+ACT 7953
+AGG 1
+AGT 2
+ATT 3
+GCT 3
+TCG 1
+TCT 10
+TGT 1
+TTT 1
+
+P(2) DMSO-2/Baxolele_13_S9_R1_001.bam
+Found 0/8532 (0.000%) stop codon reads
+AAT 6
+ACA 5
+ACG 5
+ACT 8392
+AGT 1
+ATT 5
+GCT 2
+NNN 1
+TCT 10
+
+P(2) DMSO-3/Baxolele_14_S19_R1_001.bam
+Found 0/5868 (0.000%) stop codon reads
+AAT 3
+ACA 2
+ACC 1
+ACG 2
+ACT 5775
+AGT 2
+ATT 1
+GCT 6
+TAT 1
+TCT 6
+
+P(2) JQ1-1/Baxolele_09_S45_R1_001.bam
+Found 0/9971 (0.000%) stop codon reads
+AAT 7
+ACA 7
+ACC 4
+ACG 3
+ACN 1
+ACT 9701
+AGT 3
+GCT 2
+TCT 8
+
+P(2) JQ1-2/Baxolele_10_S54_R1_001.bam
+Found 0/6503 (0.000%) stop codon reads
+AAT 4
+ACA 6
+ACC 2
+ACG 2
+ACN 1
+ACT 5728
+AGT 4
+ATT 1
+GCT 1
+TCT 3
+TGT 1
+
+P(2) JQ1-3/Baxolele_11_S63_R1_001.bam
+Found 0/9916 (0.000%) stop codon reads
+AAA 2
+AAT 5
+ACA 6
+ACC 4
+ACG 3
+ACN 1
+ACT 9723
+AGT 4
+ATT 3
+CCT 1
+GCT 3
+TCT 3
+
+Prop. P(2) DMSO-1/Baxolele_18_S55_R1_001.bam
+Found 0/7477 (0.000%) stop codon reads
+AAT 4
+ACA 6
+ACC 2
+ACG 2
+ACT 7394
+AGT 1
+ATT 2
+GCT 2
+TCT 3
+
+Prop. P(2) DMSO-2/Baxolele_19_S64_R1_001.bam
+Found 0/7332 (0.000%) stop codon reads
+AAT 4
+ACA 2
+ACC 3
+ACT 7265
+AGT 1
+ATT 1
+GCT 3
+TAT 1
+TCT 9
+
+Prop. P(2) DMSO-3/Baxolele_20_S73_R1_001.bam
+Found 0/10820 (0.000%) stop codon reads
+AAG 1
+AAT 5
+ACA 3
+ACC 3
+ACG 1
+ACN 1
+ACT 10733
+AGT 4
+ATT 1
+GCT 6
+TCT 9
+
+Prop. P(2) JQ1-1/Baxolele_15_S28_R1_001.bam
+Found 0/13676 (0.000%) stop codon reads
+AAA 1
+AAT 16
+ACA 6
+ACC 2
+ACG 4
+ACT 13487
+AGT 5
+ANN 1
+ATT 5
+GCT 1
+NNN 1
+NNT 1
+TCT 12
+TGT 1
+
+Prop. P(2) JQ1-2/Baxolele_16_S37_R1_001.bam
+Found 0/6653 (0.000%) stop codon reads
+AAT 6
+ACA 2
+ACC 1
+ACG 1
+ACN 1
+ACT 5985
+AGT 2
+GCT 4
+TCT 2
+
+Prop. P(2) JQ1-3/Baxolele_17_S46_R1_001.bam
+Found 0/11199 (0.000%) stop codon reads
+AAT 6
+ACA 3
+ACC 2
+ACG 5
+ACT 11068
+AGT 3
+ATT 2
+CCT 1
+GCT 4
+TCT 6
+

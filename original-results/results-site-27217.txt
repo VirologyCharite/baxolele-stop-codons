@@ -1,0 +1,244 @@
+P(1) DMSO-1/Baxolele_05_S8_R1_001.bam
+Found 0/5528 (0.000%) stop codon reads
+AAC 3
+CAC 2
+GAA 2
+GAC 5376
+GAG 2
+GAT 1
+GGC 1
+GTC 5
+TAC 3
+
+P(1) DMSO-2/Baxolele_06_S18_R1_001.bam
+Found 175/3993 (4.383%) stop codon reads
+CAC 2
+GAC 3729
+GAG 2
+GAT 2
+GGC 1
+GTC 6
+TAA 175
+TAC 1
+
+P(1) DMSO-3/Baxolele_07_S27_R1_001.bam
+Found 46/1310 (3.511%) stop codon reads
+GAA 1
+GAC 1210
+GAG 1
+TAA 46
+TAT 1
+
+P(1) JQ1-1/Baxolele_01_S44_R1_001.bam
+Found 0/2072 (0.000%) stop codon reads
+AAC 2
+GAA 1
+GAC 2019
+TAC 2
+
+P(1) JQ1-2/Baxolele_02_S53_R1_001.bam
+Found 0/4385 (0.000%) stop codon reads
+AAC 2
+CAC 2
+GAA 5
+GAC 3918
+GAG 1
+GAT 2
+GCC 1
+GTC 2
+TAC 1
+TCA 15
+
+P(1) JQ1-3/Baxolele_03_S62_R1_001.bam
+Found 0/3439 (0.000%) stop codon reads
+GAA 2
+GAC 3375
+GAG 1
+GAT 3
+GTC 2
+TAC 1
+
+P(1) JQ1-4/Baxolele_04_S71_R1_001.bam
+Found 1037/3268 (31.732%) stop codon reads
+GAA 1
+GAC 2175
+GAN 1
+GAT 1
+GGC 1
+GTC 1
+TAA 1037
+TAT 1
+TTC 1
+
+P(2) DMSO-1/Baxolele_12_S72_R1_001.bam
+Found 302/8132 (3.714%) stop codon reads
+AAC 2
+CAC 1
+GAA 8
+GAC 7606
+GAG 2
+GAT 2
+GCC 2
+GGC 2
+GTC 17
+TAA 302
+TAC 19
+
+P(2) DMSO-2/Baxolele_13_S9_R1_001.bam
+Found 299/8591 (3.480%) stop codon reads
+AAC 1
+CAC 5
+GAA 2
+GAC 8085
+GAG 2
+GAT 2
+GCC 2
+GGC 1
+GTC 4
+TAA 299
+TAC 21
+TTC 1
+
+P(2) DMSO-3/Baxolele_14_S19_R1_001.bam
+Found 195/5985 (3.258%) stop codon reads
+AAC 2
+CAC 3
+GAA 4
+GAC 5622
+GAG 2
+GTA 1
+GTC 1
+GTG 1
+NNN 1
+TAA 195
+TAC 5
+
+P(2) JQ1-1/Baxolele_09_S45_R1_001.bam
+Found 10/9385 (0.107%) stop codon reads
+CAC 7
+GAA 3
+GAC 8222
+GAG 3
+GAT 4
+GCA 1
+GCC 5
+GGC 1
+GTC 4
+TAA 10
+TAC 5
+TTC 1
+
+P(2) JQ1-2/Baxolele_10_S54_R1_001.bam
+Found 2/7446 (0.027%) stop codon reads
+AAC 1
+CAC 4
+GAA 6
+GAC 7203
+GAG 3
+GAT 4
+GCC 6
+GGC 1
+GTC 5
+TAA 2
+TAC 6
+
+P(2) JQ1-3/Baxolele_11_S63_R1_001.bam
+Found 7094/10338 (68.621%) stop codon reads
+AAA 6
+CAC 2
+GAA 5
+GAC 3122
+GAT 1
+GCC 2
+TAA 7093
+TAC 2
+TAG 1
+TAN 1
+TAT 2
+TTA 3
+
+Prop. P(2) DMSO-1/Baxolele_18_S55_R1_001.bam
+Found 191/8073 (2.366%) stop codon reads
+AAC 3
+CAC 5
+GAC 7663
+GAG 2
+GCC 1
+GGC 1
+GTC 6
+TAA 191
+TAC 26
+TCC 1
+
+Prop. P(2) DMSO-2/Baxolele_19_S64_R1_001.bam
+Found 188/7812 (2.407%) stop codon reads
+CAC 4
+GAA 5
+GAC 7407
+GAG 1
+GCC 1
+GTC 4
+TAA 188
+TAC 54
+TAT 1
+
+Prop. P(2) DMSO-3/Baxolele_20_S73_R1_001.bam
+Found 166/11366 (1.460%) stop codon reads
+AAC 1
+CAC 5
+GAA 3
+GAC 10702
+GAG 6
+GAT 3
+GCC 2
+GGC 8
+GTC 5
+TAA 166
+TAC 5
+TAT 1
+TTC 1
+
+Prop. P(2) JQ1-1/Baxolele_15_S28_R1_001.bam
+Found 2/14194 (0.014%) stop codon reads
+AAC 1
+CAC 14
+GAA 6
+GAC 13210
+GAG 9
+GAN 1
+GAT 2
+GCA 1
+GCC 5
+GGC 9
+GTC 8
+TAA 2
+TAC 6
+
+Prop. P(2) JQ1-2/Baxolele_16_S37_R1_001.bam
+Found 0/7369 (0.000%) stop codon reads
+AAC 1
+AAT 1
+CAC 5
+GAA 3
+GAC 7162
+GAG 2
+GAT 2
+GCC 2
+GGC 1
+GTC 5
+TAC 7
+
+Prop. P(2) JQ1-3/Baxolele_17_S46_R1_001.bam
+Found 10684/11392 (93.785%) stop codon reads
+AAA 5
+AAT 1
+CAA 1
+GAA 2
+GAC 649
+TAA 10683
+TAC 2
+TAG 1
+TAN 1
+TAT 10
+TTA 10
+
