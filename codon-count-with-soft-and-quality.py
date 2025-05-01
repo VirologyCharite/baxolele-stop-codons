@@ -9,6 +9,8 @@ from dark.aa import STOP_CODONS
 from dark.sam import samfile
 from dark.utils import pct
 
+from adjust import adjustInitialReferenceOffsets, adjustFinalReferenceOffsets
+
 
 DEFAULT_REF_ID = "hCoV-19/Wuhan-Hu-1/2019|EPI_ISL_402125"
 
@@ -50,65 +52,6 @@ def makeParser() -> argparse.ArgumentParser:
 
     return parser
 
-
-def adjustInitialReferenceOffsets(offsets):
-    result = offsets[:]
-    leadingNoneCount = 0
-    firstNonNoneOffset = None
-
-    for offset in result:
-        if offset is None:
-            leadingNoneCount += 1
-        else:
-            firstNonNoneOffset = offset
-            break
-
-    for i in range(leadingNoneCount):
-        result[i] = -1 * (firstNonNoneOffset - leadingNoneCount + i)
-
-    return result
-
-
-# Test
-assert adjustInitialReferenceOffsets([None, None, 3, 4]) == [-1, -2, 3, 4]
-assert adjustInitialReferenceOffsets([None, None, None, 5, 6, 7]) == [
-    -2,
-    -3,
-    -4,
-    5,
-    6,
-    7,
-]
-
-
-def adjustFinalReferenceOffsets(offsets):
-    result = offsets[::-1]
-    trailingNoneCount = 0
-    lastNonNoneOffset = None
-
-    for offset in result:
-        if offset is None:
-            trailingNoneCount += 1
-        else:
-            lastNonNoneOffset = offset
-            break
-
-    for i in range(trailingNoneCount):
-        result[i] = -1 * (lastNonNoneOffset + trailingNoneCount - i)
-
-    return result[::-1]
-
-
-# Test
-assert adjustFinalReferenceOffsets([3, 4, None, None]) == [3, 4, -5, -6]
-assert adjustFinalReferenceOffsets([5, 6, 7, None, None, None]) == [
-    5,
-    6,
-    7,
-    -8,
-    -9,
-    -10,
-]
 
 
 def processFile(
@@ -167,11 +110,13 @@ def processFile(
             ):
                 if referenceOffset is None:
                     # This is a reference offset that is missed by the read
-                    # (i.e., a deletion in the read).
+                    # (i.e., an insertion in the read, with nucleotides that match
+                    # the reference on either side of the insertion).
                     continue
 
                 if referenceOffset < 0:
                     referenceOffset *= -1
+                    # The 'soft' variable is not used!
                     soft = True
                 else:
                     soft = False
